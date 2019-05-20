@@ -96,7 +96,7 @@
 
   与```list```的区别：
 
-  <img src='list.png' style='zoom:70%'>
+  <img src='https://raw.githubusercontent.com/yujuezhao/practice-python/master/Numpy/images/list.PNG' width='70%' height='70%'>
 
   
 
