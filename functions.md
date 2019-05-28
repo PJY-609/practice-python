@@ -9,8 +9,8 @@
         print "another arg:", value
   fun_var_args(1, "two", 3) # *args may contain list
   ```
-  > arg: 1
-  another arg: two
+  > arg: 1  
+  another arg: two  
   another arg: 3
   
   ```python
@@ -23,8 +23,8 @@
  
   fun_var_args_call(1, *args)
   ```
-  > arg1: 1
-  arg2: two
+  > arg1: 1  
+  arg2: two  
   arg3: 3
   
   ```python
@@ -35,8 +35,8 @@
   
   fun_var_kwargs(farg=1, myarg2="two", myarg3=3) # myarg2 and myarg3 are keys， **kwargs can be dictionary
   ```
-  > arg: 1
-  another keyword arg: myarg2: two
+  > arg: 1  
+  another keyword arg: myarg2: two  
   another keyword arg: myarg3: 3
   
   ```python
@@ -48,8 +48,8 @@
  
   kwargs = {"arg3": 3, "arg2": "two"} # dictionary
   ```
-  > arg1: 1
-  arg2:"two"
+  > arg1: 1  
+  arg2:"two"  
   arg3:3
   
 * **```if __name__ == '__main__':```**
